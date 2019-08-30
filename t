@@ -14,4 +14,3 @@ news
 python
 go
 swft
-1
